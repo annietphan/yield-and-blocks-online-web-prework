@@ -25,4 +25,5 @@ hello_t(["Ali", "Jasmine", "Persephone"]) do |name|
   puts "#{name.upcase}"
 end
 
-hello_t
+hello_t(["Ali", "Jasmine", "Persephone"])
+
