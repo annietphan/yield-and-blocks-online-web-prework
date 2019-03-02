@@ -26,4 +26,3 @@ hello_t(["Ali", "Jasmine", "Persephone"]) do |name|
 end
 
 hello_t(["Ali", "Jasmine", "Persephone"])
-
