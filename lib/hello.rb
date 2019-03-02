@@ -20,3 +20,9 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
     puts "Hi, #{name}"
   end
 end
+
+hello_t(["Ali", "Jasmine", "Persephone"]) do |name|
+  puts "#{name.upcase}"
+end
+
+hello_t
